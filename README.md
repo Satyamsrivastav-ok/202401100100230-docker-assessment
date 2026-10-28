@@ -79,7 +79,7 @@ To stop the services without deleting persistent registrations, use `docker comp
 
 The assessment project is in a Git repository with `origin` configured to `https://github.com/Satyamsrivastav-ok/202401100100230-docker-assessment.git`. The `.gitignore` excludes `.env`, `*.key`, and other credential-like files. The public verification key `cosign.pub` is tracked; `.env` and the private `cosign.key` are ignored and are not tracked.
 
-Evidence files currently present: [`screenshots/s1-1.png`](./screenshots/s1-1.png), [`screenshots/s1-2.png`](./screenshots/s1-2.png), and [`screenshots/s1-3image.png`](./screenshots/s1-3image.png).
+Evidence files currently present: [`screenshots/s1-1.png`](./screenshots/s1-1.png), [`screenshots/s1-2.png`](./screenshots/s1-2.png), and [`screenshots/S1-3.png`](./screenshots/S1-3.png).
 
 ### Stage 2 — Compose application
 
@@ -189,7 +189,7 @@ Evidence files currently present (lowercase filenames on disk): [`screenshots/s5
 
 The following screenshot files were present under `screenshots/` when this README was reviewed:
 
-- Stage 1: `s1-1.png`, `s1-2.png`, `s1-3image.png`
+- Stage 1: `s1-1.png`, `s1-2.png`, `S1-3.png`
 - Stage 2: `s2-1.png`, `s2-2.png`, `s2-3.png`, `s2-4.png`
 - Stage 3: `s3-1.png`, `s3-2.png`, `s3-3.png`
 - Stage 4: `s4-1.png`, `s4-2.png`, `s4-3.png`
